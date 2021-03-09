@@ -1,6 +1,5 @@
 import UIKit
 
-// Week 4 Day 4 : Collection by MaxPoff
 //MARK: - Arrays
 /*
  Arrays:
