@@ -30,5 +30,9 @@ These repository included all my swift playgrounds I have learned from DevMounta
 # Linked List by MaxPoff DevMountain
 ![Screen Shot 2021-03-09 at 12 35 41 PM](https://user-images.githubusercontent.com/57606580/110527213-4abd1c00-80dc-11eb-8262-b211ca42b30d.png)
 
+# Heaps & Tries by Bryan DevMountain
+![Screen Shot 2021-03-11 at 11 04 31 AM](https://user-images.githubusercontent.com/57606580/110841334-60148080-826b-11eb-8f8e-a83cff7e0453.png)
+![Screen Shot 2021-03-11 at 11 46 19 AM](https://user-images.githubusercontent.com/57606580/110841338-6145ad80-826b-11eb-8300-937957a05dcc.png)
+
 ### @iOS App Development Bootcamp at Dev Mountain
 Over 13 demanding weeks in our iOS development bootcamp you’ll find out what it means to be an app developer. Using tools like Github and Xcode to collaborate, and languages like Objective-C and Swift to create, you’ll prepare for a career in tech. At the end of the course, students work with Software QA and UX Design students to create an app for Apple products.
